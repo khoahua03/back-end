@@ -12,7 +12,6 @@ To run this project in your local machine:
 # Steps to run this project in your local machine
 To run this project in your local machine:
 
-- `cd .\Backend\`
+- `cd .\Server\`
 - Run `npm install` to install the dependencies
-- Run $env:NODE_OPTIONS="--openssl-legacy-provider"
-- Run `npm start` to serve the app on your local machine.
+- Run `npm run server` to serve the app on your local machine.
